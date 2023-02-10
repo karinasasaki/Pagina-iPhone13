@@ -1,2 +1,2 @@
-# Página-Iphone13
-Clone da página do Iphone 13 da Apple.
+# Página-iPhone13
+Clone da página do iPhone 13 da Apple.
